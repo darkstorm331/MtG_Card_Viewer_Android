@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:background="@drawable/parchment" android:layout_width="match_parent" android:layout_height="match_parent">
+    <Button android:id="@+id/button1" android:background="@drawable/search" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="20dp" android:text=" " android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" android:onClick="search"/>
+    <EditText android:id="@+id/cardName" android:background="#fff" android:layout_width="wrap_content" android:layout_height="50dp" android:ems="10" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" android:layout_alignParentRight="true"/>
+    <Spinner android:id="@+id/spinner2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_above="@+id/spinner1" android:layout_alignParentLeft="false" android:textAlignment="center"/>
+    <Spinner android:id="@+id/spinner1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_above="@+id/button1" android:layout_alignParentLeft="false" android:textAlignment="center"/>
+    <Spinner android:id="@+id/spinner3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_above="@+id/spinner2" android:layout_alignParentLeft="false" android:textAlignment="center"/>
+    <RadioGroup android:id="@+id/radioGroup1" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_toLeftOf="@+id/button1" android:layout_above="@+id/spinner3" android:layout_below="@+id/cardName" android:layout_alignParentLeft="true">
+        <RadioButton android:id="@+id/radioButton1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:checked="true" android:text="Name"/>
+        <RadioButton android:id="@+id/radioButton3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Text"/>
+        <RadioButton android:id="@+id/radioButton2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Type"/>
+    </RadioGroup>
+    <CheckBox android:id="@+id/checkBox1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="26dp" android:layout_marginTop="20dp" android:text="Black" android:layout_alignLeft="@+id/button1" android:layout_alignTop="@+id/radioGroup1"/>
+    <CheckBox android:id="@+id/checkBox2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="17dp" android:text="Blue" android:layout_toRightOf="@+id/checkBox1" android:layout_alignBaseline="@+id/checkBox1" android:layout_alignBottom="@+id/checkBox1"/>
+    <CheckBox android:id="@+id/checkBox3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Green" android:layout_below="@+id/checkBox1" android:layout_alignLeft="@+id/checkBox1"/>
+    <CheckBox android:id="@+id/checkBox4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Red" android:layout_alignBaseline="@+id/checkBox3" android:layout_alignLeft="@+id/checkBox2" android:layout_alignBottom="@+id/checkBox3"/>
+    <CheckBox android:id="@+id/checkBox5" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="White" android:layout_below="@+id/checkBox3" android:layout_alignLeft="@+id/checkBox3"/>
+    <CheckBox android:id="@+id/match_exactly" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Match Exactly" android:layout_below="@+id/checkBox5" android:layout_alignRight="@+id/checkBox2"/>
+</RelativeLayout>

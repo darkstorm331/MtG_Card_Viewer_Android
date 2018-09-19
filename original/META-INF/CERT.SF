@@ -1,0 +1,58 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: Rdlx8P1h5wI8tZjloZ6XWgw+Res=
+
+Name: res/drawable-xhdpi/ic_launcher.png
+SHA1-Digest: iCfNiL2xfMWN6MhgvqyrzKb1+Lk=
+
+Name: res/layout/activity_mtgcardreader.xml
+SHA1-Digest: fHLKC5j+uOZSsYV5vgMHLt4QW2s=
+
+Name: res/layout/search_results.xml
+SHA1-Digest: pEnoxygEbCBx8+B2MJP1hCetqvg=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: Y0NcyriKJLg1xK40QEsAX79Cwd8=
+
+Name: res/menu/mtgcardreader.xml
+SHA1-Digest: ybbtB032VlfSCNToIoyDAnitZ68=
+
+Name: res/drawable-xhdpi/parchment.png
+SHA1-Digest: Xnj/79QywCNTvdbLxJgfi+q2fFE=
+
+Name: resources.arsc
+SHA1-Digest: Ifgh8CS18arpY4Qbx46hj0jhguU=
+
+Name: org/jsoup/nodes/entities-full.properties
+SHA1-Digest: NwfYghFpxeygsHfagttWyP450uY=
+
+Name: classes.dex
+SHA1-Digest: 76Y6rOB6Fb8cUREC0GoYk2UYRPM=
+
+Name: res/drawable-xxhdpi/parchment.png
+SHA1-Digest: s18hhH0pS7t1mqta0H6SqLe5mrs=
+
+Name: res/drawable-ldpi/parchment.png
+SHA1-Digest: JwX8LK0et5bJqpeVpgGDxjAxlYc=
+
+Name: res/drawable-mdpi/parchment.png
+SHA1-Digest: mqousMrnSlUwAmpvub4A5B4nZow=
+
+Name: res/drawable-xxhdpi/ic_launcher.png
+SHA1-Digest: Sh1cARfDh7CmAZlesU9kN1A6+SA=
+
+Name: AndroidManifest.xml
+SHA1-Digest: omakKwJDWnhgdSmpu9n2MHkcloI=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: Mio2BYDhyuSoGuRNsylzmphMx1U=
+
+Name: res/drawable-mdpi/search.png
+SHA1-Digest: xMi4ivLETAM+OLDqSgGMhD8rLE0=
+
+Name: org/jsoup/nodes/entities-base.properties
+SHA1-Digest: sz73WQCs6oeNIBNqaLxenv3wgSs=
+
+Name: res/drawable-hdpi/parchment.png
+SHA1-Digest: 3pUyRFI2ie/DMqjZjaoY0kGvipY=
+

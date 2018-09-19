@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="button1">false</item>
+    <item type="id" name="cardName">false</item>
+    <item type="id" name="spinner2">false</item>
+    <item type="id" name="spinner1">false</item>
+    <item type="id" name="spinner3">false</item>
+    <item type="id" name="radioGroup1">false</item>
+    <item type="id" name="radioButton1">false</item>
+    <item type="id" name="radioButton3">false</item>
+    <item type="id" name="radioButton2">false</item>
+    <item type="id" name="checkBox1">false</item>
+    <item type="id" name="checkBox2">false</item>
+    <item type="id" name="checkBox3">false</item>
+    <item type="id" name="checkBox4">false</item>
+    <item type="id" name="checkBox5">false</item>
+    <item type="id" name="match_exactly">false</item>
+    <item type="id" name="webView1">false</item>
+    <item type="id" name="action_settings">false</item>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="parchment" id="0x7f020001" />
+    <public type="drawable" name="ic_launcher" id="0x7f020000" />
+    <public type="drawable" name="search" id="0x7f020002" />
+    <public type="layout" name="activity_mtgcardreader" id="0x7f030000" />
+    <public type="layout" name="search_results" id="0x7f030001" />
+    <public type="dimen" name="activity_horizontal_margin" id="0x7f040000" />
+    <public type="dimen" name="activity_vertical_margin" id="0x7f040001" />
+    <public type="string" name="app_name" id="0x7f050000" />
+    <public type="string" name="action_settings" id="0x7f050001" />
+    <public type="string" name="hello_world" id="0x7f050002" />
+    <public type="array" name="card_types" id="0x7f060000" />
+    <public type="array" name="card_formats" id="0x7f060001" />
+    <public type="array" name="card_sets" id="0x7f060002" />
+    <public type="style" name="AppBaseTheme" id="0x7f070000" />
+    <public type="style" name="AppTheme" id="0x7f070001" />
+    <public type="menu" name="mtgcardreader" id="0x7f080000" />
+    <public type="id" name="button1" id="0x7f090000" />
+    <public type="id" name="cardName" id="0x7f090001" />
+    <public type="id" name="spinner2" id="0x7f090002" />
+    <public type="id" name="spinner1" id="0x7f090003" />
+    <public type="id" name="spinner3" id="0x7f090004" />
+    <public type="id" name="radioGroup1" id="0x7f090005" />
+    <public type="id" name="radioButton1" id="0x7f090006" />
+    <public type="id" name="radioButton3" id="0x7f090007" />
+    <public type="id" name="radioButton2" id="0x7f090008" />
+    <public type="id" name="checkBox1" id="0x7f090009" />
+    <public type="id" name="checkBox2" id="0x7f09000a" />
+    <public type="id" name="checkBox3" id="0x7f09000b" />
+    <public type="id" name="checkBox4" id="0x7f09000c" />
+    <public type="id" name="checkBox5" id="0x7f09000d" />
+    <public type="id" name="match_exactly" id="0x7f09000e" />
+    <public type="id" name="webView1" id="0x7f09000f" />
+    <public type="id" name="action_settings" id="0x7f090010" />
+</resources>
